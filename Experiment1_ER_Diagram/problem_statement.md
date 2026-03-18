@@ -26,6 +26,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 <img width="543" height="353" alt="image" src="https://github.com/user-attachments/assets/13d37503-64b6-42ff-88cc-79aa220e18f0" />
 
 
+
 ### Entities and Attributes.
 ```
 1.Members
